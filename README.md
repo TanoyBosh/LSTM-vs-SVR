@@ -21,8 +21,8 @@ Explore performance comparisons and visualizations for LSTM and SVR models.
 ### Dependencies
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, yfinance, Pandas Datareader.
 
-### Disclaimer
+##### Disclaimer
 For educational purposes only. Do not use for financial decisions without thorough analysis.
 
-# Author
+## Author
 [Tanoy Bosh]
