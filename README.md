@@ -10,11 +10,6 @@ Data sourced from Yahoo Finance using yfinance.
 Visualizations of actual vs. predicted prices.
 RMSE calculation for model evaluation.
 
-### Usage
-Clone the repo.
-Install dependencies with pip install -r requirements.txt.
-Open the Jupyter notebook or script for exploration and modification.
-
 ### Results
 Explore performance comparisons and visualizations for LSTM and SVR models.
 
